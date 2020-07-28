@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" style="float: left; width: 110px; height: auto; margin-right: 24px;">
+<div style="float: left; margin-right: 24px;">
+  <img src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" width="110" />
+</div>
 
 ### Hey, welcome! 👋🏽
 
