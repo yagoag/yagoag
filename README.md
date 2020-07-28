@@ -1,7 +1,7 @@
 <table border="0 solid transparent" style="border: none;">
   <tr border="0 solid transparent" style="border: none;">
     <td border="0 solid transparent" style="border: none;">
-      <img src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" style="display: block; float: right;" width="200" />
+      <img src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" style="display: block; float: right;" width="200" alt="my styled octocat, with curly hair, headphones, a light pink hoodie, black pants and skeakers, holding a cup of coffee" />
     </td>
     
 <td border="0 solid transparent">
