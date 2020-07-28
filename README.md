@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/yagoag/yagoag/master/octocat-small.png" style="float: left; width: 110px; height: auto; margin-right: 24px;">
+
 ### Hey, welcome! 👋🏽
 
 I am Yago, and I am a front-end developer ([he/him](https://pronoun.is/he/him)).
