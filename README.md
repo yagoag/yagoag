@@ -11,4 +11,3 @@ I have mostly been doing ⚛️ React and React Native, but I also play around w
 Find me at:&nbsp;&nbsp;[![Purple Y](https://raw.githubusercontent.com/yagoag/yagoag/main/y.svg) My Website](https://yagoag.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/twitter.svg) Twitter](https://twitter.com/yagoag)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/linkedin.svg) LinkedIn](https://linkedin.com/in/yagoag/)
 
 ![yagoag's github stats](https://github-readme-stats.vercel.app/api?username=yagoag&count_private=true&show_icons=true&title_color=6e3772&icon_color=6e3772&hide=stars,contribs&include_all_commits=true&hide_title=true&card_width=445)
-![yagoag's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&title_color=6e3772&card_width=445)
