@@ -23,11 +23,12 @@ I am Yago and I am a front-end developer who is always looking for new things to
 * Accessibility (a11y)
 * Testing
 
-🤔 **Interested in Learning:**
+🤔 **Interested in Learning (More?):**
 * Next.js
 * Svelte/Sapper
 * Vue.js
 * Deno
+* TypeScript
 
 📕 **Reading:** [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) (slow and steady)
 
