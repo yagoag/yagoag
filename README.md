@@ -10,6 +10,8 @@ I am Yago and I am a front-end developer who is always looking for new things to
 
 🎫 **Pronouns:** [he/him](https://pronoun.is/he/him)
 
+🎨 **Favorite Color:** Purple 🟣
+
 🍽 **Favorite Food:** Pizza 🍕 (with no meat, though)
 
 ☕️ **Coffee Preference:** Medium roast, cold brewed
