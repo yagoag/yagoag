@@ -1,10 +1,10 @@
-<p>
-  <img align="right" src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" margin-left="24" width="230" alt="my styled octocat, with curly hair, headphones, a light pink hoodie, black pants and skeakers, holding a cup of coffee" />
-</p>
-
 <samp>
   
 ### Hey, welcome! 👋🏽
+
+<p>
+  <img align="right" src="https://raw.githubusercontent.com/yagoag/yagoag/main/octocat-small.png" margin-left="24" width="230" alt="my styled octocat, with curly hair, headphones, a light pink hoodie, black pants and skeakers, holding a cup of coffee" />
+</p>
 
 I am Yago and I am a front-end developer who is always looking for new things to learn.
 
