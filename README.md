@@ -16,26 +16,16 @@ I am Yago and I am a front-end developer who is always looking for new things to
 
 ☕️ **Coffee Preference:** Medium roast, cold brewed
 
-🔧 **Main Tools:**
-* JavaScript
-* React
-* React Native
+🔧 **Main Tools:** JavaScript, React, React Native
 
-👨🏽‍💻 **Learning and Practicing:**
-* Accessibility (a11y)
-* Testing
+👨🏽‍💻 **Learning and Practicing:** Accessibility (a11y), Testing, TypeScript, Next.js
 
-🤔 **Interested in Learning (More?):**
-* Next.js
-* Svelte/Sapper
-* Vue.js
-* Deno
-* TypeScript
+🤔 **Interested in Learning (More?):** Svelte/Sapper, Vue.js, Deno
 
 📕 **Reading:** [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) (slow and steady)
 
 &nbsp;
 
-🔍 **Find me:** &nbsp;&nbsp;[![Purple Y](https://raw.githubusercontent.com/yagoag/yagoag/main/y.svg) My Website](https://yagoag.com/)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/twitter.svg) Twitter](https://twitter.com/yagoag)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/linkedin.svg) LinkedIn](https://linkedin.com/in/yagoag/)
+🔍 **Find me:**&nbsp;&nbsp;[![Purple Y](https://raw.githubusercontent.com/yagoag/yagoag/main/y.svg) My Website](https://yagoag.com/)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/twitter.svg) Twitter](https://twitter.com/yagoag)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/linkedin.svg) LinkedIn](https://linkedin.com/in/yagoag/)
 
 </samp>
