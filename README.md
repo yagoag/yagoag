@@ -1,5 +1,3 @@
-<samp>
-  
 ### Hey, welcome! 👋🏽
 
 <p>
@@ -26,6 +24,4 @@ I am Yago and I am a front-end developer who is always looking for new things to
 
 &nbsp;
 
-🔍 **Find me:**&nbsp;&nbsp;[![Purple Y](https://raw.githubusercontent.com/yagoag/yagoag/main/y.svg) My Website](https://yagoag.com/)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/twitter.svg) Twitter](https://twitter.com/yagoag)&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/linkedin.svg) LinkedIn](https://linkedin.com/in/yagoag/)
-
-</samp>
+🔍 **Find me:**&nbsp;&nbsp;[![Purple Y](https://raw.githubusercontent.com/yagoag/yagoag/main/y.svg) My Website](https://yagoag.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/twitter.svg) Twitter](https://twitter.com/yagoag)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn Logo](https://raw.githubusercontent.com/yagoag/yagoag/main/linkedin.svg) LinkedIn](https://linkedin.com/in/yagoag/)
